@@ -15,6 +15,4 @@ class Meal
   def self.all 
     @@all 
   end
-
 end
-© 2020 GitHub, I
